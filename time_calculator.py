@@ -57,5 +57,5 @@ def add_time(start, duration, week_day=''):
   print(new_time)
   return new_time
 
-add_time("11:59 PM", "0:01")
+
 
